@@ -12,3 +12,8 @@ C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\refint\ReadExcel.dll
 C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.pdb
 C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.genruntimeconfig.cache
 C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ref\ReadExcel.dll
+C:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.csproj.AssemblyReference.cache
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.sourcelink.json
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.csproj.Up2Date
+c:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\Office.dll
