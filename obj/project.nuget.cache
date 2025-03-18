@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rj12QYmNgME=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jason.vsilva\\Desktop\\ReadExcel\\ReadExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jason.vsilva\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\ReadExcel.exe
+C:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\ReadExcel.deps.json
+C:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\ReadExcel.runtimeconfig.json
+C:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\ReadExcel.dll
+C:\Users\jason.vsilva\Desktop\ReadExcel\bin\Debug\net9.0\ReadExcel.pdb
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.AssemblyInfoInputs.cache
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.AssemblyInfo.cs
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.dll
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\refint\ReadExcel.dll
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.pdb
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ReadExcel.genruntimeconfig.cache
+C:\Users\jason.vsilva\Desktop\ReadExcel\obj\Debug\net9.0\ref\ReadExcel.dll
